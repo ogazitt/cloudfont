@@ -34,3 +34,6 @@
 .cloudfont-bitbucket:before{content:'\004e';}
 .cloudfont-azurepipelines:before{content:'\004f';}
 .cloudfont-azuredevops:before{content:'\0050';}
+.cloudfont-gcp:before{content:'\0051';}
+.cloudfont-aws:before{content:'\0052';}
+.cloudfont-azure:before{content:'\0053';}
