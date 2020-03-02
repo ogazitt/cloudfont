@@ -1,6 +1,6 @@
 {
   "name": "cloudfont",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "font for cloud icons",
   "main": "css/cloudfont.css",
   "scripts": {
